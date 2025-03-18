@@ -35,4 +35,4 @@ Cette partie se concentre sur la reconnaissance visuelle des composants électro
 
 **Caméra** : Capture d'images des composants électroniques.
 
-Node-RED : Automatisation et gestion des flux de données.<<
+**Node-RED** : Automatisation et gestion des flux de données.<<
